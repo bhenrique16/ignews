@@ -1,2 +1,3 @@
 # ignews
-
+#README
+.
