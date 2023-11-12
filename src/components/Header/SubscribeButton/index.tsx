@@ -1,7 +1,7 @@
 import { signIn, useSession } from 'next-auth/react';
 import styles from './styles.module.scss'
 import { api } from '../../../services/api';
-import { getstripeJs } from '../../../services/stripe.-js';
+import { getstripeJs } from '../../../services/stripe-js';
 
 
 interface SubscribeButtonProps {
